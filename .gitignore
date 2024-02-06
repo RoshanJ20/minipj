@@ -1,2 +1,5 @@
 models/cc.en.300.bin
 data/Suicide_Detection.csv
+models/GoogleNews-vectors-negative300.bin
+models/CNN_BiLSTM_model2.h5
+models/CNN_BiLSTM_model1.h5
