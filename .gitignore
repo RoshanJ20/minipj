@@ -3,3 +3,5 @@ data/Suicide_Detection.csv
 models/GoogleNews-vectors-negative300.bin
 models/CNN_BiLSTM_model2.h5
 models/CNN_BiLSTM_model1.h5
+models/high_prec.h5
+models/model_final/tf_model.h5
